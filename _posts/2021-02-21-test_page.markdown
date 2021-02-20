@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My new post!"
-date:   2021-02-20 8\08:26:28 -0800
+date:   2021-02-21 08:26:28 -0800
 categories: jekyll update
 ---
 An entry post based on the welcome post.
