@@ -32,23 +32,10 @@ github_username:  jekyll
 linkedin: allandebono #user-name-256ra147
 linkedin_username: allandebono
 
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/allandebono" 
-#"https://twitter.com/mmistakes"
-    -label: "LinkedIn"
-
-  #  - label: "GitHub"
-  #    icon: "fab fa-fw fa-github"
-  #    url: "https://github.com/mmistakes"
-  #  - label: "Instagram"
-  #    icon: "fab fa-fw fa-instagram"
-  #    url: "https://instagram.com/mmistakes"
 
 # Build settings
 theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll@5.0.0
 #theme: minimal-mistakes-jekyll
 #remote_theme: "mmistakes/minimal-mistakes@4.22.0" 
 #minimal_mistakes_skin: "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
@@ -56,6 +43,7 @@ theme: beautiful-jekyll-theme
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
