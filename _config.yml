@@ -28,6 +28,7 @@ baseurl: "allandebono.github.io" # the subpath of your site, e.g. /blog
 url: "allandebono.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+linkedin_username: allandebono #user-name-256ra147
 #linkedin_username: allandebono
 # Build settings
 #theme: minimal-mistakes-jekyll
