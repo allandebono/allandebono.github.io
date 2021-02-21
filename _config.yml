@@ -28,10 +28,12 @@ baseurl: "allandebono.github.io" # the subpath of your site, e.g. /blog
 url: "allandebono.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-linkedin_username: allandebono
+#linkedin_username: allandebono
 # Build settings
 #theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.22.0" 
+minimal_mistakes_skin: "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
