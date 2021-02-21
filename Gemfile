@@ -13,7 +13,7 @@ gem "jekyll", "~> 4.2.0"
 
 gem "beautiful-jekyll-theme", "5.0.0"
 #gem "minimal-mistakes-jekyll" #new addition.2
-minimal_mistakes_skin:  "dark" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+#minimal_mistakes_skin:  "dark" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
