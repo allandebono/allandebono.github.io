@@ -31,15 +31,20 @@ github_username:  jekyll
 linkedin: allandebono #user-name-256ra147
 linkedin_username: allandebono
 
-social:
-  type:  # Person or Organization (defaults to Person)
-  name:  # If the user or organization name differs from the site's name
+ooter:
   links:
-#    - "https://twitter.com/yourTwitter"
-#    - "https://www.facebook.com/yourFacebook"
-#    - "https://instagram.com/yourProfile"
-    - "https://www.linkedin.com/in/allan"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/allandebono" 
+#"https://twitter.com/mmistakes"
+    -label: "LinkedIn"
 
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
 
 # Build settings
 #theme: minimal-mistakes-jekyll
