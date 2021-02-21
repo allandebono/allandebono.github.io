@@ -11,7 +11,8 @@ gem "jekyll", "~> 4.2.0"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #uncomment-gem "minima", "~> 2.5"
 
-gem "minimal-mistakes-jekyll" #new addition.2
+gem "beautiful-jekyll-theme", "5.0.0"
+#gem "minimal-mistakes-jekyll" #new addition.2
 minimal_mistakes_skin:  "dark" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
