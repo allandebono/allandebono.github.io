@@ -12,7 +12,7 @@ gem "jekyll", "~> 4.2.0"
 #uncomment-gem "minima", "~> 2.5"
 
 
-gem "minima"
+gem "minima", git: "https://github.com/jekyll/minima"
 #gem "beautiful-jekyll-theme", "5.0.0"
 #gem "minimal-mistakes-jekyll" #new addition.2
 #minimal_mistakes_skin:  "dark" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
