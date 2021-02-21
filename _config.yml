@@ -30,12 +30,13 @@ url: "http://testing.allandebono.org" #allandebono.github.io" # the base hostnam
 twitter_username: jekyllrb
 github_username:  jekyll
 linkedin: allandebono #user-name-256ra147
-linkedin_username: allandebono
+#linkedin_username: allandebono
 
 
 # Build settings
-theme: beautiful-jekyll-theme
-remote_theme: daattali/beautiful-jekyll@5.0.0
+gem "minima"
+#theme: beautiful-jekyll-theme
+#remote_theme: daattali/beautiful-jekyll@5.0.0
 #theme: minimal-mistakes-jekyll
 #remote_theme: "mmistakes/minimal-mistakes@4.22.0" 
 #minimal_mistakes_skin: "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
