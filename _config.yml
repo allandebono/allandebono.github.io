@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Test site
-email: email@domain.com
+title: title    
+email: email
 
 description: >- # this means to ignore newlines until "baseurl:"
   This is a test Jekyll site.
@@ -28,19 +28,11 @@ baseurl: "allandebono.github.io" # the subpath of your site, e.g. /blog
 url: "http://testing.allandebono.org" #allandebono.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-- title: "linkedin"
-  href: "https://www.linkedin.com/in/allandebono"
-#linkedin: https://linkedin.com/in/allandebono #user-name-256ra147
-
 
 
 # Build settings
 theme: minima
-#theme: beautiful-jekyll-theme
-#remote_theme: daattali/beautiful-jekyll@5.0.0
-#theme: minimal-mistakes-jekyll
-#remote_theme: "mmistakes/minimal-mistakes@4.22.0" 
-#minimal_mistakes_skin: "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 
 plugins:
   - jekyll-feed
@@ -66,13 +58,3 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-social:
-  type:  # Person or Organization (defaults to Person)
-  name:  # If the user or organization name differs from the site's name
-  links:
-    #- "https://twitter.com/yourTwitter"
-    #- "https://www.facebook.com/yourFacebook"
-    #- "https://instagram.com/yourProfile"
-    - title: "linkedin"
-  href: "https://www.linkedin.com/in/allandebono"
-    - "https://www.linkedin.com/in/allandebono"
