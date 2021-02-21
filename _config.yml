@@ -69,7 +69,9 @@ social:
   type:  # Person or Organization (defaults to Person)
   name:  # If the user or organization name differs from the site's name
   links:
-    - "https://twitter.com/yourTwitter"
-    - "https://www.facebook.com/yourFacebook"
-    - "https://instagram.com/yourProfile"
-    - "https://www.linkedin.com/in/yourprofile"
+    #- "https://twitter.com/yourTwitter"
+    #- "https://www.facebook.com/yourFacebook"
+    #- "https://instagram.com/yourProfile"
+    - title: "linkedin"
+  href: "https://www.linkedin.com/in/YOUR-ACCOUNT"
+    - "https://www.linkedin.com/in/allandebono"
