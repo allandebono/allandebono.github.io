@@ -29,9 +29,9 @@ baseurl: "allandebono.github.io" # the subpath of your site, e.g. /blog
 url: "http://testing.allandebono.org" #allandebono.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-#- title: "linkedin"
-#  href: "https://www.linkedin.com/in/YOUR-ACCOUNT"
-linkedin: https://linkedin.com/in/allandebono #user-name-256ra147
+- title: "linkedin"
+  href: "https://www.linkedin.com/in/allandebono"
+#linkedin: https://linkedin.com/in/allandebono #user-name-256ra147
 
 
 
