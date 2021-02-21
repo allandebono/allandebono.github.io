@@ -25,13 +25,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "allandebono.github.io" # the subpath of your site, e.g. /blog
+
 url: "allandebono.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 linkedin: allandebono #user-name-256ra147
 linkedin_username: allandebono
 
-ooter:
+footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -39,12 +40,12 @@ ooter:
 #"https://twitter.com/mmistakes"
     -label: "LinkedIn"
 
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/mmistakes"
+  #  - label: "Instagram"
+  #    icon: "fab fa-fw fa-instagram"
+  #    url: "https://instagram.com/mmistakes"
 
 # Build settings
 #theme: minimal-mistakes-jekyll
