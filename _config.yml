@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jekyll test site
+title: "Allan's Jekyll test site"
 email: email@domain.com
 
 description: >- # this means to ignore newlines until "baseurl:"
@@ -76,5 +76,5 @@ social:
     #- "https://www.facebook.com/yourFacebook"
     #- "https://instagram.com/yourProfile"
     - title: "linkedin"
-  href: "https://www.linkedin.com/in/YOUR-ACCOUNT"
+  href: "https://www.linkedin.com/in/allandebono"
     - "https://www.linkedin.com/in/allandebono"
